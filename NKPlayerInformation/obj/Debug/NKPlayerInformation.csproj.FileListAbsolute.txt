@@ -1,0 +1,16 @@
+C:\Users\Dogukan\source\repos\NKPlayerInformation\NKPlayerInformation\bin\Debug\NKPlayerInformation.dll
+C:\Users\Dogukan\source\repos\NKPlayerInformation\NKPlayerInformation\bin\Debug\NKPlayerInformation.pdb
+C:\Users\Dogukan\source\repos\NKPlayerInformation\NKPlayerInformation\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Dogukan\source\repos\NKPlayerInformation\NKPlayerInformation\bin\Debug\Assembly-CSharp.dll
+C:\Users\Dogukan\source\repos\NKPlayerInformation\NKPlayerInformation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dogukan\source\repos\NKPlayerInformation\NKPlayerInformation\bin\Debug\Rocket.API.dll
+C:\Users\Dogukan\source\repos\NKPlayerInformation\NKPlayerInformation\bin\Debug\Rocket.Core.dll
+C:\Users\Dogukan\source\repos\NKPlayerInformation\NKPlayerInformation\bin\Debug\Rocket.Unturned.dll
+C:\Users\Dogukan\source\repos\NKPlayerInformation\NKPlayerInformation\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Dogukan\source\repos\NKPlayerInformation\NKPlayerInformation\bin\Debug\UnityEngine.dll
+C:\Users\Dogukan\source\repos\NKPlayerInformation\NKPlayerInformation\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\Dogukan\source\repos\NKPlayerInformation\NKPlayerInformation\obj\Debug\NKPlayerInformation.csproj.AssemblyReference.cache
+C:\Users\Dogukan\source\repos\NKPlayerInformation\NKPlayerInformation\obj\Debug\NKPlayerInformation.csproj.CoreCompileInputs.cache
+C:\Users\Dogukan\source\repos\NKPlayerInformation\NKPlayerInformation\obj\Debug\NKPlayer.E275DFCD.Up2Date
+C:\Users\Dogukan\source\repos\NKPlayerInformation\NKPlayerInformation\obj\Debug\NKPlayerInformation.dll
+C:\Users\Dogukan\source\repos\NKPlayerInformation\NKPlayerInformation\obj\Debug\NKPlayerInformation.pdb
